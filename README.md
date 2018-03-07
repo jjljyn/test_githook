@@ -1,2 +1,2 @@
 # test_githook
-5
+6
